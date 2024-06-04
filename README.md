@@ -1,15 +1,11 @@
-# Me 😎
+# About Me
 
-Hey, I'm Nived a 15 year old student from India, currently (2023-24) in Grade 10 (My Current 🏫: [Palghat Lions School](https://palghatlionsschool.com/)). 
+Hello, I'm Nived, a 16-year-old student from India, currently in Grade 11 at [Chavara Public School](https://www.cps.ac.in).
 
-I absolutely love subjects that rack your brain like Physics, Chemistry, Math (you can probably deduce that I am a JEE aspirant too 🐤), and share an utter disregard and dislike towards Social and Languages 😢 (English is okay, but meh!). 
+I have a keen interest in intellectually stimulating subjects such as Physics and Mathematics, and I am a dedicated JEE aspirant.
 
-Programming has been a hobby, which started- about 4 years ago, along with my friends back in Qatar.
+Programming has been a passion of mine for the past six years, which I pursued alongside friends while residing in Qatar. I am currently developing a tool to analyze Instagram data, which you can explore [here](https://github.com/nivedvenugopalan/Instagram-Insights).
 
-Working on a tool to anaylze your Instagram Data ([See Here](https://github.com/nivedvenugopalan/Instagram-Insights))
-
-Also,
-I'm Batman 🦇
 
 <!--
 **nivedvenugopalan/nivedvenugopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
