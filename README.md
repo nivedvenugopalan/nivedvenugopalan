@@ -1,11 +1,17 @@
 # About Me
+Hi, I'm Nived, a student from India with a strong interest in Physics, Mathematics, and Computer Science. I enjoy exploring challenging problems in mathematics, physics, and software development.
 
-Hello, I'm Nived, a 16-year-old student from India, currently in Grade 11 at [Chavara Public School](https://www.cps.ac.in).
+I've been programming for over six years, a journey that began while living in Qatar. Since then, I've worked on a variety of projects ranging from data analysis tools to automation and electronics. I particularly enjoy building projects that combine programming with real-world applications.
 
-I have a keen interest in intellectually stimulating subjects such as Physics and Mathematics, and I am a dedicated JEE aspirant.
+### Current Interests
+- Physics and Mathematics
+- Data analysis and visualization
+- C++ and Python development
+- Electronics and embedded systems
+- Teaching and explaining technical concepts
 
-Programming has been a passion of mine for the past six years, which I pursued alongside friends while residing in Qatar. I am currently developing a tool to analyze Instagram data, which you can explore [here](https://github.com/nivedvenugopalan/Instagram-Insights).
-
+### Beyond Academics
+When I'm not studying or coding, you'll usually find me experimenting with electronics, creating physics problems, exploring new technologies, or gaming with friends.
 
 <!--
 **nivedvenugopalan/nivedvenugopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
